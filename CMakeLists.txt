@@ -1,10 +1,10 @@
 set(COMPONENT_SRCS
-    "Sensors/sensor.c"
+    "Sensor/sensor.c"
     
 )
 
 set(COMPONENT_ADD_INCLUDEDIRS
-    "Sensors"
+    "Sensor"
     
 )
 
